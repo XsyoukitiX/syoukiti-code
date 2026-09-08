@@ -53,3 +53,4 @@ while True:
     if P == 0:
         print("GAME OVER")    
         break
+    #END

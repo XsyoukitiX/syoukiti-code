@@ -23,4 +23,3 @@ while True: #execute roop / break - end / 1set(while True:)(break)
                 print("Try again")
     else:
         print("-ERROR- This number isn't integer")            
-            
